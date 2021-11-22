@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-// import Pratica from './Pratica';
+// import App from './Portfolio/App';
 
 ReactDOM.render(
   <React.StrictMode>
