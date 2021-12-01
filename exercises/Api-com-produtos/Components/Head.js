@@ -2,9 +2,8 @@ import React from 'react';
 
 const Head = (props) => {
   React.useEffect(() => {
-    document.title = 'Reacticia <3 ' + props.title;
+    document.title = props.title;
   }, [props]);
-
   return <></>;
 };
 
